@@ -29,3 +29,38 @@ ul.topnav li.right {float: right;}
   ul.topnav li.right, 
   ul.topnav li {float: none;}
 }
+
+.regBTN {
+  padding: 18px 80px;
+  border: none;
+  border-radius: 1px;
+  background: #788090;
+  color: #fff;
+  border-bottom-left-radius: 0;
+  border-bottom-left-radius: 4px;
+  font-family:'Rubik', sans-serif;
+  text-transform: uppercase;
+  
+}
+
+.regBTN:hover {
+  background-color: #405fa5;
+}
+/* in the registration page */
+
+.regBTN1 {
+  padding: 18px 100px;
+  border: none;
+  border-radius: 1px;
+  background: #788090;
+  color: #fff;
+  border-bottom-left-radius: 0;
+  border-bottom-left-radius: 4px;
+  font-family:'Rubik', sans-serif;
+  text-transform: uppercase;
+  
+}
+
+.regBTN1:hover {
+  background-color: #405fa5;
+}

@@ -1,9 +1,7 @@
-/*
-
-inspiration: 
-https://dribbble.com/shots/2292415-Daily-UI-001-Day-001-Sign-Up
-
-*/
+function myFunction() {  
+  // alert("Welcome to the javaTpoint.com"); 
+    window.location.href = "file:///C:/Users/junan/Desktop/Land_Ledger/registration.html"; 
+  }  
 
 let form = document.querySelecter('form');
 
